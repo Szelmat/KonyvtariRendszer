@@ -1,0 +1,8 @@
+Manifest-Version: 1.0
+Main-Class: org.eclipse.jdt.internal.jarinjarloader.JarRsrcLoader
+Rsrc-Class-Path: ./ jiconfont-1.0.0.jar jiconfont-bundle-1.4.0.jar jicon
+ font-swing-1.0.1.jar jiconfont-google_material_design_icons-2.2.0.2.jar
+  sqlite-jdbc-3.30.1.jar jiconfont-font_awesome-4.7.0.1.jar
+Rsrc-Main-Class: shell.MainWindow
+Class-Path: .
+
